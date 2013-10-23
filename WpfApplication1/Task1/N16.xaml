@@ -1,0 +1,10 @@
+﻿<Window x:Class="WPFLab.N16"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Canvas>
+        <Label Content="Label" Canvas.Left="20" Canvas.Top="20" />
+        <TextBox Height="23.551" Canvas.Top="40" Width="64.147" Canvas.Left="40"/>
+        <Button Content="Button" Canvas.Left="64.523" Canvas.Top="63.551"/>
+    </Canvas>
+</Window>
