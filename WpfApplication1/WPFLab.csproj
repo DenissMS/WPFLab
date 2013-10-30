@@ -109,12 +109,28 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Images\clear.png" />
-    <Resource Include="Images\copy.png" />
-    <Resource Include="Images\open.png" />
-    <Resource Include="Images\paste.png" />
+    <Resource Include="collections-icon.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="Images\trash-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\missed-calls-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\copy-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\collections-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\received-calls-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\close.png" />
+    <Resource Include="Images\maximize.png" />
+    <Resource Include="Images\minimize.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
